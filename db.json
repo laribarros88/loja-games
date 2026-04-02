@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    { 
+      "id": 1, 
+      "produto": "The Witcher", 
+      "descricao": "RPG", 
+      "foto": "assets/img/jogo1.jpg", 
+      "preco": 259 
+    },
+    { 
+      "id": 2, 
+      "produto": "GTA", 
+      "descricao": "Free World", 
+      "foto": "assets/img/jogo2.jpg", 
+      "preco": 377 
+    },
+    { 
+      "id": 3, 
+      "produto": "Assassin's Creed", 
+      "descricao": "Aventura", 
+      "foto": "assets/img/jogo3.jpg", 
+      "preco": 310
+    }
+  ]
+}
